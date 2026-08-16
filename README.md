@@ -67,14 +67,14 @@ traceable-deep-research/
 </details>
 
 ```bash
-git clone https://github.com/<owner>/self-tracker <上面对应的路径>
+git clone https://github.com/AtreideJZ/traceable-deep-research.git
 ```
 
 > **Windows 用户注意**：标准 Claude Code 路径为 `%APPDATA%\Claude\skills\`。如在 CherryStudio 中使用，路径为 `%APPDATA%\CherryStudio\Data\Skills\`。
 
 ### 方式二：让Agent帮忙装（推荐，跨 runtime）
 打开你正在用的 agent（Claude Code、Codex、Cursor、OpenClaw、CodeBuddy 等），告诉它：
-> 帮我安装这个skill：https://github.com/AtreideJZ/traceable-deep-research.git
+> 帮我安装这个skill：`https://github.com/AtreideJZ/traceable-deep-research.git`
 
 另：该skill也上架了Astron SkillHub，所以也可以直接在 [Skills市场](https://skill.xfyun.cn/) 搜索"traceable-deep-research"安装
 
